@@ -2,6 +2,11 @@
 https://www.youtube.com/watch?v=wVGvhT151lg
 by Meerkat statistics
 
+bias-variance tradeoff
+interpolation-smoothness tradeoff
+curse of dimensionality 
+
+
 2. 
 
 
