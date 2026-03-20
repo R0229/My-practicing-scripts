@@ -1,2 +1,2 @@
 ## Contents
-- `Scripts/`: scripts on machine learning in R and Python
+This folder comtains all scripts on machine learning in R and Python
