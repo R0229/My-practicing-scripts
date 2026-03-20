@@ -5,7 +5,7 @@ by Meerkat statistics
 bias-variance tradeoff
 interpolation-smoothness tradeoff
 curse of dimensionality 
-
+penalized iteratively reweighted least squares (IRLS)
 
 2. 
 
